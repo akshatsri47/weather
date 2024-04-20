@@ -45,7 +45,7 @@ The missing Weather App for your Mac and iPad.
 >
 > Despite what the LICENSE says, You don't need to credit the original repo if you're using this for educational purposes :)
 > 
-> Aayush
+> Yash
 >
 
 
