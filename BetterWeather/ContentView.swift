@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  BetterWeather
 //
-//  Created by Aayush Pokharel on 2021-10-21.
+//  Created by yash pokalwar on 2023-10-21.
 //
 
 import SwiftUI
